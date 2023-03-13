@@ -5,10 +5,12 @@ Website URL- https://medicaid.thealmondprojects.com/
 Project Mandate
 
 Background
- This project aims at creating a website for a Hospital based in the UK, they bridge the gap between Doctors and Patients by providing a platform where patients can schedule appointments easily, purchase medical products and medication, make payment on the website and pick up products when they visit the hospital.  
+
+This project aims at creating a website for a Hospital based in the UK, they bridge the gap between Doctors and Patients by providing a platform where patients can schedule appointments easily, purchase medical products and medication, make payment on the website and pick up products when they visit the hospital.  
 The doctors can update their availability on the website and also senior management can track their daily schedules there.
 
 The Problem
+
 There are lots of people out there seeking to visit the hospital for one medical reason or another, but their busy schedule and sometimes ill health makes it quite difficult for them go to the hospitals and sit for hours waiting for the line to get to them, and many times they have to return the next day, making it a more frustrating experience.
 
 Our client aims to solve this problem by creating an application that would create a platform where that interaction between doctor and patient becomes less tedious and more convenient for both parties.
@@ -20,6 +22,7 @@ The cost of delivering this project has been budgeted at £65,000.
 This is a huge project and so it has been split into different groups, below are the features that this team would be working on:
 
 Key Features - Website Features.
+
 Accounts, FAQ's, Blog, Search, Order and Pick Up and Client Profile.
 
 1. Accounts: This feature manages the accounts of admin and patients on the application. Each user should be able to sign up to the platform, sign in and manage their accounts.
@@ -43,6 +46,7 @@ Main Aim:
 Team members on this project are tasked with delivering this project within 12 weeks.
 
 Kindly note that the team would be building an MVP (minimum viable product) so our main focus would be on the primary functionalities of the product.
+
 
 
 PROJECT TEAM
